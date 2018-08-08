@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'cp2mean'; //here's where the title is coming from... it must be exported first, to be used in the html
+  title = 'cp2mean'; //here's where the title comes from
 }
